@@ -1,4 +1,4 @@
-# Isomorphic-Javascript-code-sharing-between-client-server
+# Isomorphic Javascript code sharing between the client and the server.
 Javascript code sharing between client side and server side using node.js,
 
 promises based abstraction utility called asynquence,
